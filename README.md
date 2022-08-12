@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KwekuFori
 - 👀 I’m interested in Data Analysis for Evaluation
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Projects on SQL
+- 🌱 I’m currently learning SQL, Python, R, Tableau and Power Bi
+- 💞️ I’m looking to collaborate on Projects on any of the above
 - 📫 How to reach me Kwekufori2019@gmail.com
 
 <!---
